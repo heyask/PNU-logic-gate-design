@@ -1,0 +1,36 @@
+[project]
+projecttype=1
+[folder0]
+filen=0
+[folder1]
+filen=8
+file0=실습1\문제1_DecimalToBinary\DecimalToBinary.v
+file1=실습1\문제1_DecimalToBinary\DecimalToBinary_tb.v
+file2=실습1\문제2_HalfAdder\HalfAdder.v
+file3=실습1\문제2_HalfAdder\HalfAdder_tb.v
+file4=실습1\문제3_FullAdder\FullAdder.v
+file5=실습1\문제3_FullAdder\FullAdder_tb.v
+file6=실습1\문제4_RippleCarryAdder\RippleCarryAdder.v
+file7=실습1\문제4_RippleCarryAdder\RippleCarryAdder_tb.v
+[folder2]
+filen=0
+[usedlibrary]
+n=0
+[lastservicesetting - SimulateISim]
+taskname - linen=1
+taskname - 0=Flowrian
+usetasknamebymodulename - linen=1
+usetasknamebymodulename - 0=-1
+useautoalign - linen=1
+useautoalign - 0=-1
+topmodule - linen=0
+simulationtime - linen=1
+simulationtime - 0=10000
+simulationunit - linen=1
+simulationunit - 0=2
+compileordern - linen=1
+compileordern - 0=0
+vsimadvancedoption - linen=0
+[lastservicesetting - common]
+advancedoptionn - linen=1
+advancedoptionn - 0=0

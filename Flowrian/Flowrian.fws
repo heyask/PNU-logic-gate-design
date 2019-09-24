@@ -1,0 +1,13 @@
+[workspace]
+description=
+author=
+projectn=4
+currentprojectindex=3
+[project0]
+filename=Week1\Week1.fprj
+[project1]
+filename=Week2\Week2.fprj
+[project2]
+filename=Week3\Week3.fprj
+[project3]
+filename=Week4\Week4.fprj
